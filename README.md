@@ -1,3 +1,7 @@
+# Le Jeu de "La Corbeille" or "Trading Floor" game
+
+
+
 I. Objectifs
 
 Les participants expérimentent en quoi  :
