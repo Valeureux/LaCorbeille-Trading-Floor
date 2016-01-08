@@ -1,8 +1,7 @@
 # Le Jeu de "La Corbeille" or "Trading Floor" game
 
 
-
-I. Objectifs
+##I. Objectifs
 
 Les participants expérimentent en quoi  :
 
@@ -13,12 +12,12 @@ Les participants expérimentent en quoi  :
     la valeur que l’on donne aux choses et leurs prix (échange de monnaie) ne sont pas liés
     notre intelligence peut être mise au service de nos intentions
 
-II. Conditions
+##II. Conditions
 
     Nombre de joueurs : 10 minimum jusqu’à très nombreux
     Temps : 1h minimum pour la séquence proposée
 
-III. Matériel
+##III. Matériel
 
     Il faut un nombre de cartes à jouer adapté au nombre de participant. Prenez autant de jeux de cartes que nécessaire pourvu que vous ayez uniquement des carrés (ex : 4 rois, 4 valets…). Au nombre de participants, nous recommandons d’ajouter 4 carrés (ex : 15 participants + 4 = 19 carrés, soit 76 cartes)
     Papiers vert en guise de billet (cas de figure « monnaie rare, centralisée et dette », voir ci-après) : a minima, triplez le nombre de « billets » par rapport au nombre de participants (ex : 15 participants x 3 = 45 « billets »)
@@ -29,14 +28,14 @@ III. Matériel
     Une table
     Un porte-monnaie « crédit mutuel » dont vous trouverez le modèle ICI
 
-IV. Préparation
+##IV. Préparation
 
     Choisissez votre scénario comprenant les tours de jeu à utiliser et leur ordre (troc, monnaie rare…)
     Mettez en place la table
     Prenez un volontaire pour fait le caissier. Son rôle est de donner des symboles de récompense (graines, bonbons…) aux joueurs qui sont parvenus à obtenir un carré de carte ; il leur redonne 4 cartes aléatoires. Dans le cadre du tour « monnaie rare », il note le nom des emprunteurs. Enfin, il renseigne la feuille de données de la session.
     Expliquez les règles aux joueurs.
 
-V. Dynamique de jeu
+##V. Dynamique de jeu
 
 L’objectif de jeu est de recueillir le plus de graines possibles en échangeant ses cartes pour obtenir des carrés Chaque joueur commence avec 4 cartes à jouer. Il doit les échanger pour faire un carré de 4 cartes. Les carrés seront récompensés par le caissier avec 1 graine et 4 nouvelles cartes mélangées. Les participants vont s’apercevoir à chaque tour de jeu des différences dans le fonctionnement de la place de marché. Après avoir échangé des cartes, les joueurs sont invités, cette fois, à échanger leurs impressions.
 
@@ -52,7 +51,7 @@ Chaque tour dure environ 20 minutes avec les étapes suivantes :
     Demandez le remboursement des dettes (dans certains tours)
     Discutez : Que s’est-il passé ? Qu’avez-vous ressenti ?
 
-VI. Séquence d’une heure suggérée par les créateurs
+##VI. Séquence d’une heure suggérée par les créateurs
 
 1. Troc
 
@@ -93,7 +92,7 @@ L’animateur peut inviter les participants à s’exprimer autour des questions
     Comment les architectures / systèmes influencent nos comportements ?
     Quel seraient les choix optimaux à réaliser selon le rapport architecture / contexte / objectif ?
 
-VII. Listes des variations possibles
+##VII. Listes des variations possibles
 1. Troc
 
 Aucun papier vert n’est délivré.
@@ -126,10 +125,3 @@ Les dés sont pipés en faveur de la banque. L’inflation peut apparaître.
 8.  Démocratie
 Les joueurs décident des règles.
 Ne vous inquiétez pas si vous n’arrivez pas à commencer les échanges.
-
-à continuer – – – – – – – –
-
-Jeu conçu par Sybille Saint Girons et Matthew Slater
-Chaque utilisateur et animateur de ce jeu est invité à partager ses expériences sur valeureux.org
-
- 
