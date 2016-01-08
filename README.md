@@ -1,5 +1,8 @@
 # Le Jeu de "La Corbeille" or "Trading Floor" game
 
+English version here: 
+https://github.com/Valeureux/LaCorbeille-Trading-Floor/blob/master/ENGLISH%20README.md
+
 
 ##I. Objectifs
 
