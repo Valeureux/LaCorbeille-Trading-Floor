@@ -1,7 +1,16 @@
 # Le Jeu de "La Corbeille" or "Trading Floor" game
+>« Vivons la Bourse ! »
 
 English version here: 
 https://github.com/Valeureux/LaCorbeille-Trading-Floor/blob/master/ENGLISH%20README.md
+
+
+##SCENARIO
+Au sein d’une *communauté*, les membres ont pour objectif de créer le plus de *carrés* possible. 
+Chaque joueur commence avec 4 cartes à jouer. Il doit les échanger pour faire un carré de 4 cartes. Chaque carré assemblé sera enregistré par le caissier, et le joueur recevra 1 bonbon et 4 nouvelles cartes.
+
+Ces consignes sont utilisées  trois tours avec un *système d’échange *différent à chaque.
+Les participants vont s’apercevoir à chaque tour de jeu des différences dans le fonctionnement de *la place de marché*. A l’issue de chaque tour, les joueurs partagent leurs observations et ressentis.
 
 
 ##I. Objectifs
