@@ -1,5 +1,5 @@
 # Le Jeu de "La Corbeille" or "Trading Floor" game
-# **Version "Théorie_Relative_de_la_Monnaie" or "Relative_Theory_of_Money"**
+**Version "Théorie_Relative_de_la_Monnaie" or "Relative_Theory_of_Money"**
 
 >Le jeu de la corbeille adapté aux mécanisme de la TRM
 
@@ -10,9 +10,13 @@ Une monnaie relative formée de 5 niveaux de billets, Rouge, Jaune, Vert, Bleu, 
 (marqué sur chaque billet) :
 
 1 Rouge = 2 Violets
+
 1 Jaune = 2 Rouges
+
 1 Vert = 2 Jaunes
+
 1 Bleu = 2 Verts
+
 1 Violet = 2 Bleus
 
 Chaque tour = 8 ans, on rajoute 4 cartes de valeur supérieure pour chaque joueur, si 4 niveaux de carte atteint en jeu,
