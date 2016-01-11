@@ -100,35 +100,31 @@ L’animateur peut inviter les participants à s’exprimer autour des questions
     Quel seraient les choix optimaux à réaliser selon le rapport architecture / contexte / objectif ?
 
 ##VII. Listes des variations possibles
-###1. Troc
 
+#####1. Troc
 Aucun papier vert n’est délivré.
 Les échanges sont très lents et les relations humaines sont agréables.
-
-###2. Monnaie rare, centralisée et dette
-
+#####2. Monnaie rare, centralisée et dette
 Peu de papiers verts sont distribués de façon aléatoire à certains joueurs. Ceux-ci peuvent en emprunter 2 pour en rembourser 3.
 Les échanges sont rapides et il y a de la compétition dans les relations humaines.
-
-3. Fiat
+#####3. Fiat
 Deux papiers verts sont émis et remis à chaque joueur. Les échanges sont efficaces et les relations humaines sont agréables. Il y a risque d’inflation due à la création de papiers verts.
-
-###4. Argent de valeur
+#####4. Argent de valeur
 Un papier vert est donné à chaque joueur, ils sont échangeables contre des graines.
-
-
-###5. Crédit mutuel
+#####5. Crédit mutuel
 Échange avec porte-monnaie « crédit mutuel« . Chaque transaction est enregistré avec 2 « écritures » +1 et -1.
 Les échanges sont rapides et les relations humaines sont agréables. L’apport des outils numériques est un plus.
-
-###6. Auto-émission de crédit
+#####6. Auto-émission de crédit
 Les joueurs peuvent émettre autant de papiers verts qu’ils le désirent, en écrivant leur nom dessus. Tous les papiers verts doivent retourner aux émetteurs à la fin.
 Certains joueurs sont incapables de rembourser la totalité de leur crédit et cela montre la nécessité d’une gouvernance.
-
-###7. Banque en tant que Trader
+#####7. Banque en tant que Trader
 Un banquier entre sur le marché (avec des papiers verts illimités) et achète, vend des cartes et gagne des graines comme les autres joueurs.
 Les dés sont pipés en faveur de la banque. L’inflation peut apparaître.
-
-###8.  Démocratie
+#####8.  Démocratie
 Les joueurs décident des règles.
 Ne vous inquiétez pas si vous n’arrivez pas à commencer les échanges.
+#####9.  Théorie Relative de la Monnaie
+Une variante du Jeu qui repose sur le principe de la TRM ou Théorie Relative de la Monnaie qui est un principe de variation de la masse monétaire en fonction du nombre de personne rapporté au temps. 
+
+
+
